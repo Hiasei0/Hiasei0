@@ -29,5 +29,6 @@ i don't approached anything based on the code, performance or experience why i t
   <img align="center" alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
  
+  <a href="https://discord.gg/KHjPgNR9kp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
