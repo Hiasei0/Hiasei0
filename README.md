@@ -28,4 +28,6 @@ i don't approached anything based on the code, performance or experience why i t
   <img align="center" alt="Lua" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+ 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
