@@ -23,3 +23,5 @@ ____**[OPEN] Experienced Programmer For Hire**____
 i don't approached anything based on the code, performance or experience why i think this is useless, you will check if i have experience, looking my Portfolio (Videos) and my GitHub (Open Sources)
 
 **"Caprice is the art of do your best in the condition you have, while you can't do better yet!"**
+
+<i class="devicon-github-original-wordmark colored"></i>
