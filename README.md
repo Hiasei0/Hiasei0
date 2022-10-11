@@ -4,17 +4,14 @@ ____**[OPEN] Experienced Programmer For Hire**____
     Hi, i'm Hiasei aka Luiz, i have 15 years and i'm from Brazil, i play Roblox since 2015 and my first contact to script was in 2017, i read some books and you can check what i can do in my portfolio below, and the performance of my codes in my GitHub.
     
   **[Why Me?]:**
-    I'm fluent in Portuguese, don't is hard see how Brazil have a high community and how any experience in Roblox can be famous with such community.
-    
-    I have a good experience with Anti-Cheats, Rojo and Modules of the community that can help me for a perfect system.
-    
-    I have a high level of abstraction, mathematical and physical concepts.
-    
-    I have a good concentration, besides some techniques.
-    
-    I'm starting to be fluent in English, for now I can't have a good communication in calls, but I can have a perfect communication in chat.
-    
-    Can you deduce if my work is fast looking in the last line of my codes on the GitHub, there show how much time i spent on them.
+   
+   
+    I'm fluent in Portuguese, don't is hard see how Brazil have a high community and how any experience in Roblox can be famous with such community;
+    I have a good experience with Anti-Cheats, Rojo and Modules of the community that can help me for a perfect system;
+    I have a high level of abstraction, mathematical and physical concepts;
+    I have a good concentration, besides some techniques;
+    I'm starting to be fluent in English, for now I can't have a good communication in calls, but I can have a perfect communication in chat;
+    Can you deduce if my work is fast looking in the last line of my codes on the GitHub, there show how much time i spent on them;
     
     
   **[How much time i will work?]:**
