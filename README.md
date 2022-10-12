@@ -15,7 +15,7 @@ ____**[OPEN] Experienced Programmer For Hire**____
     
     
   **[How much time i will work?]:**
-    12 pm - 16 pm; All days of the week. (Full Concentration) **[UTC -03:00]**
+    13 pm - 17 pm; All days of the week. (Full Concentration) **[UTC -03:00]**
     
   **[Payment]:**
     I like they are fair. I can work Upon completion or Per Task
