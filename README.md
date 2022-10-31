@@ -7,7 +7,7 @@ ____**[OPEN] Experienced Programmer For Hire**____
    
    
     I'm fluent in Portuguese, don't is hard see how Brazil have a high community and how any experience in Roblox can be famous with such community;
-    I have a good experience with **Anti-Cheats**, **Rojo** and **Modules of community** that can help me for a perfect system;
+    I have a good experience with Anti-Cheats, Rojo and Modules of community that can help me for a perfect system;
     I have a high level of abstraction, mathematical, concentration,communication and physical concepts;
     Can you deduce if my work is fast looking in the last line of my codes on the GitHub, there show how much time i spent on them;
     
