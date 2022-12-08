@@ -1,24 +1,12 @@
 ____**[OPEN] Experienced Programmer For Hire**____
 
-  **[Description]:**
-    Hi, i'm Luiz aka Hiasei0, i have 15 years and i'm from Brazil, i play Roblox since 2015 and my first contact to script was in 2017, you can check what i can do in my portfolio below, and the performance of my codes in my GitHub.
-    
-  **[Why Me?]:**
-   
-   
-    I'm fluent in Portuguese, don't is hard see how Brazil have a high community and how any experience in Roblox can be famous with such community;
-    I have a good experience with Anti-Cheats, Rojo and Modules of community that can help me for a perfect system;
-    I have a high level of abstraction, mathematical, concentration,communication and physical concepts;
-    Can you deduce if my work is fast looking in the last line of my codes on the GitHub, there show how much time i spent on them;
-    
-    
-  **[How much time i will work?]:**
-    12 pm - 16 pm; All days of the week. (Full Concentration) **[UTC -03:00]**
-    
-  **[Payment]:**
-    I like they are fair. I can work Upon completion or Per Task
-    
-i don't approached anything based on the code, performance or experience why i think this is useless, you will check if i have experience, looking my Portfolio (Videos) and my GitHub (Open Sources)
+Hi, I'm Luiz (Hiasei), a 15-year-old Brazilian programmer who has been improving.
+
+I have created my portfolio where I have showcased some of my best coding projects and open source contributions. 
+
+I'm proficient in English and can work from 12:15 PM - 4 PM. I have been passionate about computer programming since 2017, and prior to that, I had been playing Roblox since 2016.
+
+I'm looking for potential opportunities to gain more experience in the field and to develop my skills further. Feel free to take a look at my portfolio and contact me if you think I'd be a suitable fit for any project or job openings you may have.
 
 **"Caprice is the art of do your best in the condition you have, while you can't do better yet!"**
 
