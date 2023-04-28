@@ -1,14 +1,12 @@
 ____**[OPEN] Experienced Programmer For Hire**____
 
-Hi, I'm Luiz (Hiasei), a 15-year-old Brazilian programmer who has been improving.
+Hello, my name is Luiz (Hiasei), and I'm a Brazilian programmer with extensive experience in Lua and some knowledge in Python. My focus is on creating unique abilities and attacks, as well as complex systems that enhance gameplay. I have a passion for game development and want to help make games even more amazing.
 
-I have created my portfolio where I have showcased some of my best coding projects and open source contributions. 
+In my portfolio, you will find some of the projects I've worked on and open-source contributions. I also use Trello for communication and organization while working in a team. I'm available to work from 12:15 PM to 4 PM, and I'm looking for challenging projects where I can apply my skills and knowledge.
 
-I'm proficient in English and can work from 12:15 PM - 4 PM. I have been passionate about computer programming since 2017, and prior to that, I had been playing Roblox since 2016.
+My work routine consists of working 4 hours per day, but I guarantee that during that time, I will be fully dedicated to producing the best possible work. I enjoy working in a team, learning new things, and facing challenges, so I'm always seeking new opportunities to improve my skills and experiences.
 
-I'm looking for potential opportunities to gain more experience in the field and to develop my skills further. Feel free to take a look at my portfolio and contact me if you think I'd be a suitable fit for any project or job openings you may have.
-
-**"Caprice is the art of do your best in the condition you have, while you can't do better yet!"**
+If you need someone who can create unique abilities and attacks, as well as complex systems in your games, feel free to contact me. I'm excited to be a part of new projects and help take the gaming experience to the next level!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lua" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
